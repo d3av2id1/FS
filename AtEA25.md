@@ -24,5 +24,5 @@ This Act shall be effective immediately.
 
 Should any part of this Act be struck down or declared unenforceable, then that part of the Act shall be considered severed from this Act, and the rest shall remain in full force.
 
-**SEC. 4. **
+**SEC. 4. A**
 
