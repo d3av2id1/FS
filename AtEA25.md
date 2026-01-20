@@ -2,11 +2,9 @@
 
 <h2> IN THE SENATE </h2>
 
-J<small>ANUARY</small> 20, 2026
+<small>JANUARY</small> ##, 2026
 
-Introduced by d3av2id1 (for themself; and dadudeds)
-
-An Act to increase the supervisory position limit.
+Introduced by d3av2id1 (for himself)
 
 </div>
 
@@ -26,6 +24,5 @@ This Act shall be effective immediately.
 
 Should any part of this Act be struck down or declared unenforceable, then that part of the Act shall be considered severed from this Act, and the rest shall remain in full force.
 
-**SEC. 4. AMENDMENT**
+**SEC. 4. **
 
-Section 6(b) of the Employment Act of 2026 shall be amended by striking the number "2" and inserting in its place the number "4".
