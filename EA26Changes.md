@@ -36,10 +36,10 @@ Should any part of this Act be struck down or declared unenforceable, then that 
 
 (c) Subsection (i-viii) of Section 6(b) of the Employment Act of 2026 does not exist yet, but shall be created and state :
 
-> (i) The Firestone National Guard, 
->(ii) Firestone Peace Officer Standards and Training, 
-> (iii) Firestone Fire Academy, 
-(iv) Firestone Department of Health, 
+> - (i) The Firestone National Guard, 
+- (ii) Firestone Peace Officer Standards and Training, 
+- (iii) Firestone Fire Academy, 
+- (iv) Firestone Department of Health, 
 (v) Firestone Department of State, 
 (vi) Firestone Department of Commerce, 
 (vii) Firestone Aviation Administration, 
