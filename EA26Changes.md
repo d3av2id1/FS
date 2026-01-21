@@ -34,7 +34,7 @@ Should any part of this Act be struck down or declared unenforceable, then that 
 
 > "An individual may hold no more than 2 supervisory positions in any agency of the State of Firestone or its inferior governments. **Supervisory positions in the following departments do not count towards the limit:**"
 
-(c) Subsections (i-viii) of Section 6(b) of the Employment Act of 2026 do not exist yet, but shall be created and state:
+(c) Subsections (i-ix) of Section 6(b) of the Employment Act of 2026 do not exist yet, but shall be created and state:
 
 >(i) The Firestone National Guard, 
 (ii) Firestone Peace Officer Standards and Training, 
@@ -44,6 +44,6 @@ Should any part of this Act be struck down or declared unenforceable, then that 
 (vi) Firestone Department of Commerce, 
 (vii) Firestone Aviation Administration, 
 (viii) Firestone Department of Justice,
-(viiii) Firestone Department of Public Safety
+(ix) Firestone Department of Public Safety
 
  
