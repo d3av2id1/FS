@@ -43,6 +43,7 @@ Should any part of this Act be struck down or declared unenforceable, then that 
 (v) Firestone Department of State, 
 (vi) Firestone Department of Commerce, 
 (vii) Firestone Aviation Administration, 
-(viii) Firestone Department of Justice
+(viii) Firestone Department of Justice,
+(viiii) Firestone Department of Public Safety
 
  
